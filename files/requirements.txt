@@ -1,6 +1,0 @@
-# Biblioteca usada para conversar com a API local do Ollama (requisições HTTP).
-requests>=2.31
-
-# Necessário para o VS Code executar células do notebook (.ipynb).
-# O VS Code costuma oferecer a instalação automaticamente ao escolher o kernel.
-ipykernel>=6.0
